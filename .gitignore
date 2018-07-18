@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+token.txt
+.httr-oauth
+sentiment_corpus/
+data/
+SentiWS_v1.8c.zip
+.RData_alt
+.Rproj.user_alt/
